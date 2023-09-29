@@ -1,0 +1,62 @@
+{
+    "hoodies": [
+      {
+        "id": 1,
+        "nombre": "Hoodie 1",
+        "imagen": "hoodie1.jpg",
+        "descripcion": "Descripción del Hoodie 1",
+        "enlace": "enlace1.html"
+      },
+      {
+        "id": 2,
+        "nombre": "Hoodie 2",
+        "imagen": "hoodie2.jpeg",
+        "descripcion": "Descripción del Hoodie 2",
+        "enlace": "enlace2.html"
+      }
+    ],
+
+    "camisas": [
+      {
+        "id": 1,
+        "nombre": "Camisa 1",
+        "imagen": "camisa1.jpeg",
+        "descripcion": "Descripción de camisa 1",
+        "enlace": "enlace1.html"
+      },
+      {
+        "id": 2,
+        "nombre": "camisa 2",
+        "imagen": "camisa2.jpeg",
+        "descripcion": "Descripción del camisa 2",
+        "enlace": "enlace2.html"
+      },
+
+      {
+        "id": 3,
+        "nombre": "camisa 3",
+        "imagen": "camisa3.jpeg",
+        "descripcion": "Descripción del camisa 3",
+        "enlace": "enlace3.html"
+      },
+
+      {
+        "id": 4,
+        "nombre": "camisa 4",
+        "imagen": "camisa4.jpeg",
+        "descripcion": "Descripción del camisa 4",
+        "enlace": "enlace4.html"
+      },
+
+      {
+        "id": 5,
+        "nombre": "camisa 5",
+        "imagen": "camisa5.jpeg",
+        "descripcion": "Descripción del camisa 5",
+        "enlace": "enlace5.html"
+      }
+    ]
+
+   
+
+  }
